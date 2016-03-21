@@ -5,7 +5,7 @@ Standalone install of Flashtag CMS
 ### Installation
 
 ```
-composer create-project flashtag/cms "dev-master@dev" --prefer-dist
+composer create-project "flashtag/cms:dev-master@dev" --prefer-dist
 ```
 
 Now update your database credentials in `.env`, for example:
