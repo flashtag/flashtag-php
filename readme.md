@@ -5,22 +5,7 @@ Standalone install of Flashtag CMS
 ### Installation
 
 ```
-composer create-project "flashtag/cms:dev-master@dev" --prefer-dist
-```
-
-Now update your database credentials in `.env`, for example:
-
-```
-DB_HOST=localhost
-DB_DATABASE=db_name
-DB_USERNAME=db_username
-DB_PASSWORD=password
-```
-
-and then run:
-
-```
-php artisan migrate
+composer create-project "flashtag/cms:dev-master@dev" flashtag --prefer-dist
 ```
 
 ### Dev environment - Homestead
