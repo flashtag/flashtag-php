@@ -934,12 +934,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flashtag/core.git",
-                "reference": "7094447db52677b609e97e391f9c658901aff727"
+                "reference": "dc539ea1c88e9a0bd432a6510f62284f08cce3d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flashtag/core/zipball/7094447db52677b609e97e391f9c658901aff727",
-                "reference": "7094447db52677b609e97e391f9c658901aff727",
+                "url": "https://api.github.com/repos/flashtag/core/zipball/dc539ea1c88e9a0bd432a6510f62284f08cce3d9",
+                "reference": "dc539ea1c88e9a0bd432a6510f62284f08cce3d9",
                 "shasum": ""
             },
             "require": {
@@ -964,7 +964,7 @@
                 "source": "https://github.com/flashtag/core/tree/develop",
                 "issues": "https://github.com/flashtag/core/issues"
             },
-            "time": "2016-03-22 20:55:03"
+            "time": "2016-03-22 21:09:29"
         },
         {
             "name": "flashtag/data",
