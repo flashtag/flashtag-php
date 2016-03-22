@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "68b50e34d09051e0249a375564c9a4d9",
+    "hash": "7e9f66e20a5d6bfc6ff669879f5781b1",
     "content-hash": "4905b512306538b3baa32f237ee99c16",
     "packages": [
         {
@@ -847,12 +847,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flashtag/admin.git",
-                "reference": "ef55e950034ffe92a38b6a93a623d33fbee540c8"
+                "reference": "63339f44490f765791f7045c4caf6c073ef4e536"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flashtag/admin/zipball/ef55e950034ffe92a38b6a93a623d33fbee540c8",
-                "reference": "ef55e950034ffe92a38b6a93a623d33fbee540c8",
+                "url": "https://api.github.com/repos/flashtag/admin/zipball/63339f44490f765791f7045c4caf6c073ef4e536",
+                "reference": "63339f44490f765791f7045c4caf6c073ef4e536",
                 "shasum": ""
             },
             "require": {
@@ -882,7 +882,7 @@
                 "source": "https://github.com/flashtag/admin/tree/develop",
                 "issues": "https://github.com/flashtag/admin/issues"
             },
-            "time": "2016-03-21 17:53:29"
+            "time": "2016-03-22 20:34:01"
         },
         {
             "name": "flashtag/api",
@@ -934,12 +934,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flashtag/core.git",
-                "reference": "e4fddf7c4566d4f4f6e5af665a9cd10093ffa467"
+                "reference": "7094447db52677b609e97e391f9c658901aff727"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flashtag/core/zipball/e4fddf7c4566d4f4f6e5af665a9cd10093ffa467",
-                "reference": "e4fddf7c4566d4f4f6e5af665a9cd10093ffa467",
+                "url": "https://api.github.com/repos/flashtag/core/zipball/7094447db52677b609e97e391f9c658901aff727",
+                "reference": "7094447db52677b609e97e391f9c658901aff727",
                 "shasum": ""
             },
             "require": {
@@ -964,7 +964,7 @@
                 "source": "https://github.com/flashtag/core/tree/develop",
                 "issues": "https://github.com/flashtag/core/issues"
             },
-            "time": "2016-03-17 22:35:45"
+            "time": "2016-03-22 20:55:03"
         },
         {
             "name": "flashtag/data",
@@ -1113,16 +1113,16 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "6.1.1",
+            "version": "6.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "c6851d6e48f63b69357cbfa55bca116448140e0c"
+                "reference": "d094e337976dff9d8e2424e8485872194e768662"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/c6851d6e48f63b69357cbfa55bca116448140e0c",
-                "reference": "c6851d6e48f63b69357cbfa55bca116448140e0c",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/d094e337976dff9d8e2424e8485872194e768662",
+                "reference": "d094e337976dff9d8e2424e8485872194e768662",
                 "shasum": ""
             },
             "require": {
@@ -1138,7 +1138,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "6.1-dev"
+                    "dev-master": "6.2-dev"
                 }
             },
             "autoload": {
@@ -1171,7 +1171,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2015-11-23 00:47:50"
+            "time": "2016-03-21 20:02:09"
         },
         {
             "name": "guzzlehttp/promises",
