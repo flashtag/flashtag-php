@@ -11,7 +11,7 @@ composer create-project "flashtag/cms:dev-master@dev" flashtag --prefer-dist
 ### Dev environment - Homestead
 
 - If you have Vagrant installed, you just need to modify Homestead.yaml to suit your needs and then run `vagrant up`.
-- Then you will run `vagrant ssh` and cd to your project directory and run `php artisan migrate`.
+- Then you will run `vagrant ssh` and cd to your project directory and run `php artisan flashtag:install`.
 
 Everything should be good.
 
@@ -22,6 +22,6 @@ Everything should be good.
 - Copy `.env.example` to `.env` and set it up as required. Don't forget to change `APP_ENV` to `production` and `APP_DEBUG` to `false`.
 - Generate your key `php artisan key:generate`
 - Set `JWT_SECRET` to a random string.
-- Migrate the database `php artisan migrate`
+- Run the install script. `php artisan flashtag:install`
 
 Everything should be good.
