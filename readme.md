@@ -12,7 +12,7 @@ composer create-project "flashtag/cms:dev-master@dev" flashtag --prefer-dist
 
 If you have Vagrant installed
 
-1. `vendor/bin/homestead make` and modify `Homestead.yaml` to suit your needs
+1. run `vendor/bin/homestead make` and modify `Homestead.yaml` to suit your needs
 2. run `vagrant up`
 3. run `vagrant ssh` and cd to your project directory and run `php artisan flashtag:install`.
 
