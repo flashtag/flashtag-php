@@ -127,7 +127,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dingo/api/zipball/619384190f9bf32080d4a370cf6d8713043e2557",
+                "url": "https://api.github.com/repos/dingo/api/zipball/98d3d0047252bcb0d7503337972ac00fe62ab31f",
                 "reference": "619384190f9bf32080d4a370cf6d8713043e2557",
                 "shasum": ""
             },
@@ -847,12 +847,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flashtag/admin.git",
-                "reference": "63339f44490f765791f7045c4caf6c073ef4e536"
+                "reference": "ddffebeeb6193576f3260cf43c85976e8c1b28aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flashtag/admin/zipball/63339f44490f765791f7045c4caf6c073ef4e536",
-                "reference": "63339f44490f765791f7045c4caf6c073ef4e536",
+                "url": "https://api.github.com/repos/flashtag/admin/zipball/ddffebeeb6193576f3260cf43c85976e8c1b28aa",
+                "reference": "ddffebeeb6193576f3260cf43c85976e8c1b28aa",
                 "shasum": ""
             },
             "require": {
@@ -879,10 +879,9 @@
                 }
             ],
             "support": {
-                "source": "https://github.com/flashtag/admin/tree/develop",
-                "issues": "https://github.com/flashtag/admin/issues"
+                "source": "https://github.com/flashtag/admin/tree/develop"
             },
-            "time": "2016-03-22 20:34:01"
+            "time": "2016-03-29 00:53:25"
         },
         {
             "name": "flashtag/api",
@@ -890,12 +889,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flashtag/api.git",
-                "reference": "656ca12f3abaa0d12381769badc2a55600b36f7f"
+                "reference": "a5ff561696ddb8b81c3fa37fbbeac845e86050a1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flashtag/api/zipball/656ca12f3abaa0d12381769badc2a55600b36f7f",
-                "reference": "656ca12f3abaa0d12381769badc2a55600b36f7f",
+                "url": "https://api.github.com/repos/flashtag/api/zipball/a5ff561696ddb8b81c3fa37fbbeac845e86050a1",
+                "reference": "a5ff561696ddb8b81c3fa37fbbeac845e86050a1",
                 "shasum": ""
             },
             "require": {
@@ -926,7 +925,7 @@
             "support": {
                 "source": "https://github.com/flashtag/api/tree/develop"
             },
-            "time": "2016-03-17 22:35:45"
+            "time": "2016-03-23 05:36:53"
         },
         {
             "name": "flashtag/core",
@@ -934,12 +933,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flashtag/core.git",
-                "reference": "e09a5429afdc0deda7653881202afce524a44006"
+                "reference": "de93b702ecdf4fe0475dfceb53010bba00d33231"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flashtag/core/zipball/e09a5429afdc0deda7653881202afce524a44006",
-                "reference": "e09a5429afdc0deda7653881202afce524a44006",
+                "url": "https://api.github.com/repos/flashtag/core/zipball/de93b702ecdf4fe0475dfceb53010bba00d33231",
+                "reference": "de93b702ecdf4fe0475dfceb53010bba00d33231",
                 "shasum": ""
             },
             "require": {
@@ -961,10 +960,9 @@
                 }
             ],
             "support": {
-                "source": "https://github.com/flashtag/core/tree/develop",
-                "issues": "https://github.com/flashtag/core/issues"
+                "source": "https://github.com/flashtag/core/tree/develop"
             },
-            "time": "2016-03-22 23:43:28"
+            "time": "2016-03-23 07:12:47"
         },
         {
             "name": "flashtag/data",
@@ -972,12 +970,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flashtag/data.git",
-                "reference": "106de49a43c42bbd4cc2e373c8c55c6ad663c384"
+                "reference": "0ca39d8854d8292488026faad6d9003708230f6b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flashtag/data/zipball/106de49a43c42bbd4cc2e373c8c55c6ad663c384",
-                "reference": "106de49a43c42bbd4cc2e373c8c55c6ad663c384",
+                "url": "https://api.github.com/repos/flashtag/data/zipball/0ca39d8854d8292488026faad6d9003708230f6b",
+                "reference": "0ca39d8854d8292488026faad6d9003708230f6b",
                 "shasum": ""
             },
             "require": {
@@ -1010,10 +1008,9 @@
                 }
             ],
             "support": {
-                "source": "https://github.com/flashtag/data/tree/develop",
-                "issues": "https://github.com/flashtag/data/issues"
+                "source": "https://github.com/flashtag/data/tree/develop"
             },
-            "time": "2016-03-21 17:42:50"
+            "time": "2016-03-28 21:59:29"
         },
         {
             "name": "flashtag/front",
@@ -1021,12 +1018,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flashtag/front.git",
-                "reference": "b3eaac29772f227f36dece1354df7190d33d24d0"
+                "reference": "b90f0c0d8936f0873ede2fdd9753dc313537fdbd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flashtag/front/zipball/b3eaac29772f227f36dece1354df7190d33d24d0",
-                "reference": "b3eaac29772f227f36dece1354df7190d33d24d0",
+                "url": "https://api.github.com/repos/flashtag/front/zipball/b90f0c0d8936f0873ede2fdd9753dc313537fdbd",
+                "reference": "b90f0c0d8936f0873ede2fdd9753dc313537fdbd",
                 "shasum": ""
             },
             "require": {
@@ -1054,10 +1051,9 @@
                 }
             ],
             "support": {
-                "source": "https://github.com/flashtag/front/tree/develop",
-                "issues": "https://github.com/flashtag/front/issues"
+                "source": "https://github.com/flashtag/front/tree/develop"
             },
-            "time": "2016-03-21 17:53:29"
+            "time": "2016-03-24 04:44:47"
         },
         {
             "name": "fzaninotto/faker",
@@ -3326,7 +3322,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tymondesigns/jwt-auth/zipball/2c28de385194f696625933b7bdcdec9f7781e234",
+                "url": "https://api.github.com/repos/tymondesigns/jwt-auth/zipball/4f45a75a68109fd06031e7cca45bd6a71783f79e",
                 "reference": "2c28de385194f696625933b7bdcdec9f7781e234",
                 "shasum": ""
             },
