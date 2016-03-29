@@ -1,5 +1,6 @@
 /vendor/
 /node_modules/
 .env
+composer.lock
 Homestead.yaml
 Vagrantfile
