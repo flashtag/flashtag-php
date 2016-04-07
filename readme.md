@@ -1,3 +1,5 @@
+![Flashtag](https://s3-us-west-2.amazonaws.com/flashtag/images/flashtag-logo-banner.png)
+
 ## Flashtag CMS
 
 Standalone install of Flashtag CMS
