@@ -33,3 +33,13 @@ Everything should be good.
 - Run the install script. `php artisan flashtag:install`
 
 Everything should be good.
+
+
+### About
+
+Tired of convoluted CMS interfaces that try to do everything through the dashboard or with modules that would best be left to a developer to do?
+
+Flashtag is a new CMS aimed to cause you the least amount of stress. We embrace our PHP framework and try to keep everything as vanilla as possible.
+
+![Posts index](https://s3-us-west-2.amazonaws.com/flashtag/screenshots/alpha/admin-posts-index.png)
+
