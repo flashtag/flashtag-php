@@ -37,7 +37,7 @@ Everything should be good.
 
 ### About
 
-Tired of convoluted CMS interfaces that try to do everything through the dashboard or with modules that would best be left to a developer to do?
+Tired of convoluted CMS interfaces that try to do everything through the dashboard or with modules that make a 1-minute task a 30-minute gong-show?
 
 Flashtag is a new CMS aimed to cause you the least amount of stress. We embrace our PHP framework and try to keep everything as vanilla Laravel as possible.
 If you are familiar with Laravel, you will be at home with Flashtag. 
