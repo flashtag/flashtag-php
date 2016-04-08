@@ -39,7 +39,14 @@ Everything should be good.
 
 Tired of convoluted CMS interfaces that try to do everything through the dashboard or with modules that would best be left to a developer to do?
 
-Flashtag is a new CMS aimed to cause you the least amount of stress. We embrace our PHP framework and try to keep everything as vanilla as possible.
+Flashtag is a new CMS aimed to cause you the least amount of stress. We embrace our PHP framework and try to keep everything as vanilla Laravel as possible.
+If you are familiar with Laravel, you will be at home with Flashtag. 
 
-![Posts index](https://s3-us-west-2.amazonaws.com/flashtag/screenshots/alpha/admin-posts-index.png)
+#### Dashboard Preview
+
+![Admin Dashboard](https://s3-us-west-2.amazonaws.com/flashtag/screenshots/alpha/admin-dashboard.png)
+
+#### Content index lists
+
+![Admin Posts index](https://s3-us-west-2.amazonaws.com/flashtag/screenshots/alpha/admin-posts-index.png)
 
