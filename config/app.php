@@ -138,16 +138,25 @@ return [
         Illuminate\View\ViewServiceProvider::class,
 
         /*
-         * Application Service Providers...
+         * Flashtag Service Providers...
          */
         Flashtag\Core\Providers\CoreServiceProvider::class,
         Flashtag\Data\Providers\DataServiceProvider::class,
         Flashtag\Admin\Providers\AdminServiceProvider::class,
         Flashtag\Api\Providers\ApiServiceProvider::class,
         Flashtag\Front\Providers\FrontServiceProvider::class,
+
+        /*
+         * Application Service Providers...
+         */
         Flashtag\Cms\Providers\AppServiceProvider::class,
         Flashtag\Cms\Providers\EventServiceProvider::class,
         Flashtag\Cms\Providers\RouteServiceProvider::class,
+
+        /*
+         * You can remove this after Install, if you want.
+         */
+        Flashtag\Core\Providers\InstallServiceProvider::class,
 
     ],
 
