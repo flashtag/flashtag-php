@@ -4,8 +4,8 @@ namespace Flashtag\Cms\Providers;
 
 use Flashtag\Cms\Http\ViewComposers\PageComposer;
 use Flashtag\Cms\Http\ViewComposers\PostComposer;
-use Illuminate\Contracts\View\Factory as View;
 use Illuminate\Support\ServiceProvider;
+use Illuminate\View\Factory as View;
 
 class ViewComposerServiceProvider extends ServiceProvider
 {
@@ -16,8 +16,10 @@ class ViewComposerServiceProvider extends ServiceProvider
      */
     public function boot(View $view)
     {
-        $view->composer('flashtag::posts.show', PostComposer::class);
-        $view->composer('flashtag::pages.show', PageComposer::class);
+        $view->composers([
+            PostComposer::class => 'flashtag::posts.show',
+            PageComposer::class => 'flashtag::pages.show',
+        ]);
     }
 
     /**
