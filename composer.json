@@ -14,36 +14,14 @@
         "wiki": "https://github.com/flashtag/flashtag/wiki",
         "irc": "irc://irc.freenode.org/flashtag"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:flashtag/core.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@github.com:flashtag/admin.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@github.com:flashtag/api.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@github.com:flashtag/front.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@github.com:flashtag/data.git"
-        }
-    ],
     "require": {
         "php": ">=5.6",
         "laravel/framework": "5.1.*",
-        "flashtag/admin": "dev-develop@dev",
-        "flashtag/api": "dev-develop@dev",
-        "flashtag/core": "dev-develop@dev",
-        "flashtag/data": "dev-develop@dev",
-        "flashtag/front": "dev-develop@dev",
+        "flashtag/admin": "^0.1",
+        "flashtag/api": "^0.1",
+        "flashtag/core": "^0.1",
+        "flashtag/data": "^0.1",
+        "flashtag/front": "^0.1",
         "filp/whoops": "^2.1"
     },
     "require-dev": {

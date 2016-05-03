@@ -154,11 +154,6 @@ return [
         Flashtag\Cms\Providers\RouteServiceProvider::class,
         Flashtag\Cms\Providers\ViewComposerServiceProvider::class,
 
-        /*
-         * You can remove this after Install, if you want.
-         */
-        Flashtag\Core\Providers\InstallServiceProvider::class,
-
     ],
 
     /*
