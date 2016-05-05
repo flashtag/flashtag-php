@@ -4,13 +4,13 @@
 
 Standalone install of Flashtag CMS
 
-- [Wiki](https://github.com/flashtag/flashtag/wiki)
-- [Issues](https://github.com/flashtag/flashtag/issues)
+- [Wiki](https://github.com/flashtag/development/wiki)
+- [Issues](https://github.com/flashtag/development/issues)
 
 ### Installation
 
 ```
-composer create-project "flashtag/cms:dev-master@dev" flashtag --prefer-dist
+composer create-project "flashtag/flashtag:dev-master@dev" my-site --prefer-dist
 ```
 
 ### Dev environment - Homestead
@@ -19,7 +19,8 @@ If you have Vagrant installed
 
 1. run `vendor/bin/homestead make` and modify `Homestead.yaml` to suit your needs
 2. run `vagrant up`
-3. run `vagrant ssh` and cd to your project directory and run `php artisan flashtag:install`.
+3. run `vagrant ssh` and cd to your project directory
+4. run `php artisan flashtag:install`
 
 Everything should be good.
 
@@ -40,7 +41,7 @@ Everything should be good.
 Tired of convoluted CMS interfaces that try to do everything through the dashboard or with modules that make a 1-minute task a 30-minute gong-show?
 
 Flashtag is a new CMS aimed to cause you the least amount of stress. We embrace our PHP framework and try to keep everything as vanilla Laravel as possible.
-If you are familiar with Laravel, you will be at home with Flashtag. 
+If you are familiar with Laravel, you will be at home with Flashtag.
 
 #### Dashboard Preview
 
@@ -49,4 +50,3 @@ If you are familiar with Laravel, you will be at home with Flashtag.
 #### Content index lists
 
 ![Admin Posts index](https://s3-us-west-2.amazonaws.com/flashtag/screenshots/alpha/admin-posts-index.png)
-
