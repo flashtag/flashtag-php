@@ -1,6 +1,6 @@
 {
-    "name": "flashtag/cms",
-    "description": "Flashtag CMS",
+    "name": "flashtag/flashtag",
+    "description": "Flashtag content management platform (CMS)",
     "keywords": ["CMS", "flashtag"],
     "license": "MIT",
     "type": "project",
@@ -10,8 +10,8 @@
         "homepage": "https://ryanwinchester.ca"
     }],
     "support": {
-        "issues": "https://github.com/flashtag/flashtag/issues",
-        "wiki": "https://github.com/flashtag/flashtag/wiki",
+        "issues": "https://github.com/flashtag/development/issues",
+        "wiki": "https://github.com/flashtag/development/wiki",
         "irc": "irc://irc.freenode.org/flashtag"
     },
     "require": {
