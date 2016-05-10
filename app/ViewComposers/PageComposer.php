@@ -1,6 +1,6 @@
 <?php
 
-namespace Flashtag\Cms\Http\ViewComposers;
+namespace Flashtag\Cms\ViewComposers;
 
 use Illuminate\Contracts\View\View;
 
